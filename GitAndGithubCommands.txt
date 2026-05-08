@@ -38,3 +38,5 @@ git add .
 git status
 git commit -m "Commit Message"
 git push
+git push --set-upstream origin master
+git checkout -b branch-name
